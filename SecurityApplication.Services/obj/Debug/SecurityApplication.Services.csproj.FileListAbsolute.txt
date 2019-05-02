@@ -1,0 +1,10 @@
+c:\users\иргалиеве.corp\source\repos\SecurityApplication.Services\bin\Debug\SecurityApplication.Services.dll
+c:\users\иргалиеве.corp\source\repos\SecurityApplication.Services\bin\Debug\SecurityApplication.Services.pdb
+c:\users\иргалиеве.corp\source\repos\SecurityApplication.Services\bin\Debug\BCrypt.Net.dll
+c:\users\иргалиеве.corp\source\repos\SecurityApplication.Services\bin\Debug\BCrypt.Net.pdb
+c:\users\иргалиеве.corp\source\repos\SecurityApplication.Services\bin\Debug\BCrypt.Net.xml
+c:\users\иргалиеве.corp\source\repos\SecurityApplication.Services\obj\Debug\SecurityApplication.Services.csprojAssemblyReference.cache
+c:\users\иргалиеве.corp\source\repos\SecurityApplication.Services\obj\Debug\SecurityApplication.Services.csproj.CoreCompileInputs.cache
+c:\users\иргалиеве.corp\source\repos\SecurityApplication.Services\obj\Debug\SecurityApplication.Services.csproj.CopyComplete
+c:\users\иргалиеве.corp\source\repos\SecurityApplication.Services\obj\Debug\SecurityApplication.Services.dll
+c:\users\иргалиеве.corp\source\repos\SecurityApplication.Services\obj\Debug\SecurityApplication.Services.pdb
